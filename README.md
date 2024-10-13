@@ -11,7 +11,6 @@ Welcome to the GDSC DSA Resources repository! This repository contains a curated
 - [Resources for Learning DSA]
   - Free Resources
   - Paid Resources
-- [Contributing]
 - [License]
 
 ---
